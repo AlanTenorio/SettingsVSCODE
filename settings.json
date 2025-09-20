@@ -3,7 +3,6 @@
   "explorer.confirmDragAndDrop": false,
   "liveServer.settings.donotShowInfoMsg": true,
   "C_Cpp.default.compilerPath": "C:/MinGW/bin/gcc.exe",
-
   "workbench.iconTheme": "mc-dp-icons",
   "workbench.startupEditor": "newUntitledFile",
   "editor.fontSize": 16,
@@ -11,7 +10,7 @@
   "javascript.suggest.autoImports": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "editor.rulers": [
-    80,
+    100,
     120
   ],
   "extensions.ignoreRecommendations": true,
@@ -264,5 +263,5 @@
   },
   "liveServer.settings.donotShowInfoMsg": true,
   "editor.multiCursorLimit": 50000,
-  "workbench.preferredDarkColorTheme": "Mmotkim"
+  "workbench.preferredDarkColorTheme": "Min Dark"
 }
